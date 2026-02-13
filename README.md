@@ -32,4 +32,4 @@ After analyzing the data and training the model, I found the following:
 3. Run the Jupyter Notebook `Churn_Analysis.ipynb`.
 
 ---
-*Author: [Your Name]*
+*Author: Saurav Shejwal*
